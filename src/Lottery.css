@@ -1,0 +1,21 @@
+.lottery {
+    border: solid 3px black;
+    padding: 1em 0 2em 0;
+    text-align: center;
+    margin: 1em auto auto;
+    border-radius: 10px;
+    width: 40em;
+}
+
+.lottery button {
+    background-color: yellow;
+    color: white;
+    font-size: 120%;
+    border-radius: 10px;
+    border: none;
+    margin-top: 1em;
+}
+
+.lottery button:hover {
+    background-color: red;
+}
